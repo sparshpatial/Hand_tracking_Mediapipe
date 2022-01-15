@@ -1,0 +1,7 @@
+REQUIREMENTS:
+
+numpy
+mediapipe
+cv2
+os
+uuid
