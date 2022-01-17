@@ -1,5 +1,8 @@
 REQUIREMENTS:
 
+```
+pip install NumPy
+```
 1. NumPy
 2. mediapipe
 3. Cv2
