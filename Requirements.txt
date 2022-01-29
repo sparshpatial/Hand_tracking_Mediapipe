@@ -1,7 +1,3 @@
-REQUIREMENTS:
-
-1. NumPy
-2. mediapipe
-3. Cv2
-4. os
-5. uuid
+mediapipe == 4.2.1
+pandas==1.3.5
+ 
