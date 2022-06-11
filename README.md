@@ -4,6 +4,6 @@ Hand Tracking by using
 ```
 pip install mediapipe
 ```
-DOWNLOAD Requirements.txt
+DOWNLOAD Requirements.txt or install the dependencies manually
 
 
